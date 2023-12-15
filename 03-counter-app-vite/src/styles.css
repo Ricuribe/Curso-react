@@ -1,0 +1,12 @@
+html, body {
+    background-color: gray;
+    color: aliceblue;
+    font-family: "Gill Sans MT", sans-serif;
+    padding: 70px;
+    font-size: 1.3rem;
+}
+button{
+    padding: 15px;
+    font-size: 1.3rem;
+    margin-right: 5px;
+}
